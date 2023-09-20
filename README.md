@@ -1,5 +1,5 @@
-<h4> Hi I'm sangyoun 👋
-</h4>
+<h2> Hi I'm sangyoun 👋
+</h2>
 
 <div align=center>
 
