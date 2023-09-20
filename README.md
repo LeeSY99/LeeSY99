@@ -1,9 +1,9 @@
 ### Hi there 👋
+![sangyoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSY99&show_icons=true&theme=vue)
 
 <!--
 **LeeSY99/LeeSY99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![sangyoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSY99&show_icons=true&theme=vue)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
