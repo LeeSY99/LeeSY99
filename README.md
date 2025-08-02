@@ -2,10 +2,7 @@
 </h2>
 
 
-### Stacks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
 
 ### 수상 내역
 - 2024-2 캡스톤설계 프로젝트 우수상 [Service Github](https://github.com/CapstoneDesign24-2), [번역모델 개발](https://github.com/LeeSY99/ai)
@@ -24,6 +21,11 @@
     - 자격번호 : 24202090284Q
     - 취득일 : 20240910
     
+
+### Stacks
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 <div align=center>
 
