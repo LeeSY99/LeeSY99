@@ -37,7 +37,7 @@
 
 </div>
 
-
+[ML/DL 공부 기록](https://www.notion.so/oreumi/c7b8e7a8cc374f0cabe3ef9781897ff4)
 <!--
 **LeeSY99/LeeSY99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
